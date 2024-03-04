@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Antic+Slab&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.App {
+  background: url(../src/images/kaktüs.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+h1 {
+  margin: 10px;
+  text-align: center;
+}
+.container {
+  width: 100%;
+  max-width: 480px;
+  margin: auto;
+  font-family: "Antic Slab", serif;
+}
+.accordion {
+  width: 100%;
+  max-width: 540px;
+  margin: 18px auto;
+  background-color: #f1f0c0;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.accordionHeading .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+}
+
+.accordionHeading {
+  background: #b7e5dd;
+  padding: 14px 0;
+}
+.accordionHeading p {
+  letter-spacing: 1.2px;
+  font-weight: 600;
+  color: black;
+}
+.accordionHeading span {
+  padding: 4px 2px;
+  border: 1px solid #383a7f;
+  cursor: pointer;
+  color: black;
+}
+.accordionHeading span:hover {
+  background-color: rgb(137, 173, 137);
+}
+.accordionContent {
+  background: #383a7f;
+  height: 0;
+  opacity: 0;
+  display: flex;
+  overflow: hidden;
+  transition: all 600ms ease-in-out;
+}
+.accordionContent.show {
+  height: 180px;
+  opacity: 1;
+}
+.accordionContent p {
+  font-size: 15px;
+  line-height: 1.6;
+  color: black;
+}

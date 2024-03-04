@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1564428366891-dc20b1edf33b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aXN0YW5idWx8ZW58MHx8MHx8fDA%3D",
+    "title": "İstanbul",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, doloribus!"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1601907724202-7d9fa57ecc54?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aXptaXJ8ZW58MHx8MHx8fDA%3D",
+    "title": "İzmir",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, doloribus!"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1662308144146-f7d6e08b4eb5?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGRpeWFyYmFrJUM0JUIxcnxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Diyarbakır",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, doloribus!"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1599406945430-0383d4771aad?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fG11JUM0JTlGbGF8ZW58MHx8MHx8fDA%3D",
+    "title": "Muğla",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, doloribus!"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1684698747662-46d4f639707a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8JUMzJUE3YW5ha2thbGUlMjAlQzUlOUZlaGl0bGklQzQlOUZpfGVufDB8fDB8fHww",
+    "title": "Çanakkale",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, doloribus!"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1591102220074-902493b578b5?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFudGFseWElMjB0dXJrZXl8ZW58MHx8MHx8fDA%3D",
+    "title": "Antalya",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, doloribus!"
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1624793354649-8bc85f2276ee?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fCVDMyVBN2F2ZGFyaGlzYXIlMjBrJUMzJUJDdGFoeWF8ZW58MHx8MHx8fDA%3D",
+    "title": "Kütahya",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, doloribus!"
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1547402928-620b989aeba3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a2Fyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Kars",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, doloribus!"
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1638495555198-2e83075a1be1?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2F6aWFudGVwfGVufDB8fDB8fHww",
+    "title": "Gaziantep",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, doloribus!"
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1697024076436-c0842172aefc?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFyZGluJTIwdHVya2V5fGVufDB8fDB8fHww",
+    "title": "Mardin",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, doloribus!"
+  }
+]
